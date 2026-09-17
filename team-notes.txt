@@ -2,3 +2,8 @@ TEAM NOTES
 
 Repository changes should be focused and independently reviewable.
 Shared files should remain understandable without relying on local 2.
+BRANCH WORK FLOW
+1.Update main.
+2.Create a feature branch.
+3.Commit focused changes. 
+4.Open a Pull Request.
